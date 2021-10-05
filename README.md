@@ -11,4 +11,5 @@ cut_video_for_label - 將影片切成數段影片
 * e - end
 * c - cancel
 * q - quit (No Save)
-- [] Video Too Long will out of memory 
+- [ ] Video Too Long will out of memory
+
